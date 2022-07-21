@@ -1,7 +1,7 @@
 # Arabidopsis thaliana Species Distribution Model
-# Author: Moi Exposito-Alonso
-# Email: moi@moilab.science
-# Date: Jul 21 2022
+Author: Moi Exposito-Alonso
+Email: moi@moilab.science
+Date: Jul 21 2022
 
 A simple proof of concept species distribution model was fitted using MaxEng with 19 bioclimate variables from worldclim v2.
 Default parameters were used for presence-only model.
